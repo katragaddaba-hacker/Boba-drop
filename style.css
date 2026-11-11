@@ -1,0 +1,13 @@
+img{
+width: 67px;
+height: 78px;
+border-radius: 15%;
+}
+
+body{
+text-align:center;
+font-family:cursive;
+font-size: 23px;
+background-color: aquamarine;
+color: rgb(233, 233, 24);
+}
